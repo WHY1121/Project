@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven #
 target/
 
@@ -13,3 +14,16 @@ target/
 
 .metadata
 .recommenders
+=======
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+>>>>>>> branch 'master' of git@github.com:WHY1121/J2EE.git
